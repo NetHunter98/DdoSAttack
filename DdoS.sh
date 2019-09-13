@@ -6,7 +6,7 @@ figlet "DdoS AttacK" | lolcat
 echo "#####@@@-_Tawakkal23_-@@@#####" | lolcat
 echo
 sleep 1
-echo "#silahkan pilih yang kamu suka :) " | lolcat
+echo "# silahkan pilih yang kamu suka :) " | lolcat
 echo "-----------------------" | lolcat
 echo ">>> [1] DdoS hammer" | lolcat
 echo "-----------------------" | lolcat
