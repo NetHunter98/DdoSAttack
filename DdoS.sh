@@ -34,7 +34,7 @@ then
     figlet "Terinstall" | lolcat
     echo
     echo "> DdoS hammer sudah terinstall" | lolcat
-    echo "> Silahkan cek di HOME Termux kamu dengan mengetik ls" | lolcat
+    echo "> Silahkan cek di HOME TermuxMu dengan mengetik ls" | lolcat
     echo
     
     
@@ -60,7 +60,7 @@ if [ $nmr = "2" ]
     figlet "Terinstall" | lolcat
     echo
     echo "> DdoS torshammer sudah terinstall" | lolcat
-    echo "> Silahkan cek di HOME Termux kamu dengan mengetik ls" | lolcat
+    echo "> Silahkan cek di HOME TermuxMu dengan mengetik ls" | lolcat
     echo
     
 fi
@@ -80,7 +80,7 @@ if [ $nmr = "3" ]
         figlet "Terinstall" | lolcat
         echo
         echo "> MCIDdoS sudah terinstall" | lolcat
-        echo "> Silahkan cek di HOME Termux kamu dengan mengetik ls" | lolcat
+        echo "> Silahkan cek di HOME TermuxMu dengan mengetik ls" | lolcat
         echo
     
      
