@@ -3,7 +3,7 @@
 clear
 figlet "DdoS AttacK" | lolcat
 echo 
-echo "_--_-_--_Tawakkal23_---_--_-" | lolcat
+echo "#####@@@-_Tawakkal23_-@@@#####" | lolcat
 echo
 sleep 1
 echo "silahkan pilih yang kamu suka :) " | lolcat
