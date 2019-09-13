@@ -2,7 +2,7 @@
 
 clear
 figlet "DdoS AttacK" | lolcat
-echo 
+
 echo "#####@@@-_Tawakkal23_-@@@#####" | lolcat
 echo
 sleep 1
