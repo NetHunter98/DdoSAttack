@@ -93,18 +93,18 @@ then
     echo
     echo "  Silahkan jalankan DdoSnya" | lolcat
     echo "  JANGAN BERHENTI SEBELUM DOWN" | lolcat
-    sleep 1
-    figlet "EWAKO" | lolcat
+    
+    
     echo
     sleep 1
     exit
     
-    else
-        echo "pilihanMu tidak tersedia :) " | lolcat
-        echo "silahkan coba lagi ! | lolcat
-        echo
 
-fi
+
+        
+        
+
+
 
 
     
