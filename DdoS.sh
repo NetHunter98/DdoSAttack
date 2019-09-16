@@ -3,7 +3,9 @@
 clear
 figlet "DdoS AttacK" | lolcat
 
-echo "#####@@@-_Tawakkal23_-@@@#####" | lolcat
+echo "#####@@@-_NetHunter_-@@@#####" | lolcat
+echo
+echo "=======================================" | lolcat
 echo
 sleep 1
 echo "# silahkan pilih yang kamu suka :) " | lolcat
@@ -97,6 +99,11 @@ then
     sleep 1
     exit
     
+else
+echo "pilihanMu tidak tersedia :) " | lolcat
+echo "silahkan coba lagi ! | lolcat
+echo
+
 fi
 
 
