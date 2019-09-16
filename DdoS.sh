@@ -101,8 +101,10 @@ then
   
 
 else
+    echo
     sleep 1
-    echo "maaf, pilihan kamu tidak tersedia :)" | lolcat
+    echo "maaf, input yang kamu masukkan tidak tersedia :)" | lolcat
+    echo "silahkan coba lagi !" | lolcat
     echo 
 fi
 
