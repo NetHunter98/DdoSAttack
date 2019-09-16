@@ -98,7 +98,15 @@ then
     echo
     sleep 1
     exit
-    
+  
+
+else
+    sleep 1
+    echo "maaf, pilihan kamu tidak tersedia :)" | lolcat
+    echo 
+fi
+
+
 
 
         
