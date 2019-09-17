@@ -101,13 +101,13 @@ then
     echo
     
 
-fi
-else
-    echo "input yang kamu masukan tidak tersedia :)
-    echo " silahkan coba lagi !
-    echo
+
+
+
+
+
     
-    if
+ 
     
 
 
