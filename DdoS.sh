@@ -91,8 +91,8 @@ fi
 if [ $nmr = "4" ]
 then
     echo
-    echo "  Silahkan jalankan DdoSnya" | lolcat
-    echo "  JANGAN BERHENTI SEBELUM DOWN" | lolcat
+    figlet "EXIT" | lolcat
+
     
     
     echo
