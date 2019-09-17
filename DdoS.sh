@@ -100,6 +100,7 @@ then
     exit
   
 
+if
 else
     echo
     sleep 1
