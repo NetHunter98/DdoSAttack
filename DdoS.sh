@@ -88,7 +88,7 @@ if [ $nmr = "3" ]
      
 fi
 
-if [ $nmr = "4" ]
+elif [ $nmr = "4" ]
 then
     echo
     echo "  Silahkan jalankan DdoSnya" | lolcat
@@ -100,7 +100,7 @@ then
     exit
   
 
-if
+
 else
     echo
     sleep 1
